@@ -1,0 +1,93 @@
+.icons {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.images {
+    width: 100%;
+}
+
+.images1 {
+    width: 100%;
+}
+
+.images4 {
+    padding-top: 20px;
+    
+}
+
+.headingh4 {
+    padding-top: 50px;
+}
+
+.images3 {
+    padding-top: 20px;
+}
+
+footer {
+    padding-top: 50px;
+    color: gray;
+    
+}
+
+footer .bg-color {
+    background-color: rgb(20, 20, 20);
+}
+
+footer h5 {
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+.line {
+    background-color: rgb(80, 78, 78);
+}
+
+.bottom {
+    padding-bottom: 40px;
+}
+
+.last-line {
+    color: gray;
+    background-color: black;
+}
+
+.green-line {
+    color: white;
+    margin-left: 100px;
+    width: 600px;
+    font-size: 1.5rem;
+    padding: 10px;
+    position: absolute;  
+}
+
+@media screen and (min-width: 1000px) {
+    #greentext {
+        position: relative;
+        top: 150px;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 750px) and (max-width: 999px) {
+    #greentext {
+        position: relative;
+        top: 150px;
+        right: 40px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 749px) {
+    #greentext {
+        position: relative;
+        top: 100px;
+        right: 30px;
+        font-size: 15px;
+        text-align: center;
+        width: 350px;
+        
+        
+        
+    }
+}
